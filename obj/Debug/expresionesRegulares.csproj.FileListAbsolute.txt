@@ -1,0 +1,10 @@
+C:\Users\LAITON\source\repos\expresionesRegulares\obj\Debug\expresionesRegulares.csprojAssemblyReference.cache
+C:\Users\LAITON\source\repos\expresionesRegulares\obj\Debug\expresionesRegulares.Form1.resources
+C:\Users\LAITON\source\repos\expresionesRegulares\obj\Debug\expresionesRegulares.Properties.Resources.resources
+C:\Users\LAITON\source\repos\expresionesRegulares\obj\Debug\expresionesRegulares.csproj.GenerateResource.cache
+C:\Users\LAITON\source\repos\expresionesRegulares\obj\Debug\expresionesRegulares.csproj.CoreCompileInputs.cache
+C:\Users\LAITON\source\repos\expresionesRegulares\bin\Debug\expresionesRegulares.exe.config
+C:\Users\LAITON\source\repos\expresionesRegulares\bin\Debug\expresionesRegulares.exe
+C:\Users\LAITON\source\repos\expresionesRegulares\bin\Debug\expresionesRegulares.pdb
+C:\Users\LAITON\source\repos\expresionesRegulares\obj\Debug\expresionesRegulares.exe
+C:\Users\LAITON\source\repos\expresionesRegulares\obj\Debug\expresionesRegulares.pdb
